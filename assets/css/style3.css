@@ -51,15 +51,9 @@ body{
     background: gray;
     border-top: 10px solid teal;
     color: white !important;
-
 }
 
-img {
-    float: left;
-    margin-right: 10px;
-}
-
-p{
-    float: left;
-
+.btn {
+    background-color: teal;
+    color: white;
 }
