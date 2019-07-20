@@ -57,3 +57,14 @@ body{
     background-color: teal;
     color: white;
 }
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+#footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
